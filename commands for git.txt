@@ -1,0 +1,33 @@
+git --version(Tells the version of git)
+ls (to know about directoriess and file)
+clear(To clear all the previos command and get clean screen)
+pwd(Helps us to find current working directories)
+
+###imp term###
+remote(file in github)
+local(file in pc or laptop)
+directory(folder)
+commit(save a file)
+untracked (new file that git does not track)
+stage(file is ready to be commited)
+##############################
+git clone project link (clone a file from remote to local)
+cd directory name(To change the folder)
+ls -a(To know which file is being track by git)
+git status(tells if the file is commiite and about the update)
+git add filename(add new or changet file staging area)
+git add .(add all file)
+git  commit -m"write message for eg- fixed the bug" (to save a file)
+cd..(to go to previos directory)
+git push origin main(To push the commited modefeid file from local to remote)
+########How to push code to origin branch####### 
+git init (to make the current directory repostories)
+git add remote origin link
+#################################################
+git branch(tells us in which branch )
+git branch -M  Main(To change branch name)
+git checkout (branch name)
+git checkout -b branchname(To create a new a branch)
+git checkout branchname(To go to other  branch)
+
+
